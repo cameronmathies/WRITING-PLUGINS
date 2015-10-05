@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TestManaged.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\WRITING PLUGINS Unity Project\Assets\TestManaged.cs">
     <Files>
-      <File FileName="Assets\TestManaged.cs" Line="9" Column="54" />
-      <File FileName="..\Plugin\RandomNumber\MyClass.cs" Line="1" Column="1" />
+      <File FileName="..\..\WRITING PLUGINS Unity Project\Assets\TestManaged.cs" Line="9" Column="54" />
+      <File FileName="MyClass.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

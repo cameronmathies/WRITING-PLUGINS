@@ -1,19 +1,23 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{EC0E00CE-34CE-C379-D78F-C57853833407}") = "WRITING PLUGINS Unity Project", "Assembly-CSharp.csproj", "{8A6BD11B-D155-80EB-7872-E0C787C00014}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{8A6BD11B-D155-80EB-7872-E0C787C00014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6BD11B-D155-80EB-7872-E0C787C00014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6BD11B-D155-80EB-7872-E0C787C00014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6BD11B-D155-80EB-7872-E0C787C00014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
+				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -32,4 +36,5 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
+
 EndGlobal
