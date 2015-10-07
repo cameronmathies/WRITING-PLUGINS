@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\RandomNumberWrapper.cs" />
      <Compile Include="Assets\TestManaged.cs" />
      <Compile Include="Assets\TestNative.cs" />
  <Reference Include="UnityEngine.UI">
