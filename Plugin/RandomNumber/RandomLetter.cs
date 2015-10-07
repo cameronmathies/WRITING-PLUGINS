@@ -8,14 +8,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 using System;
-namespace RandomNumber
+namespace AssemblyCSharp
 {
-	public class MyClass
+	public class RandomLetter
 	{
-		public int GetRandom() {
-            int num = _random.Next(0, 26);
-            public static char GetLetter()
-        }
+		public RandomLetter ()
+		{
+		}
 	}
 }
 
