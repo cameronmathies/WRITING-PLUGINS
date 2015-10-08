@@ -61,6 +61,12 @@
  <Reference Include="RandomNumber">
  <HintPath>C:/Users/cmathies/Desktop/GitHub/WRITING-PLUGINS/WRITING PLUGINS Unity Project/Assets/Plugins/RandomNumber.dll</HintPath>
  </Reference>
+ <Reference Include="RN">
+ <HintPath>C:/Users/cmathies/Desktop/GitHub/WRITING-PLUGINS/WRITING PLUGINS Unity Project/Assets/Plugins/RN.dll</HintPath>
+ </Reference>
+ <Reference Include="RandomNumber 1">
+ <HintPath>C:/Users/cmathies/Desktop/GitHub/WRITING-PLUGINS/WRITING PLUGINS Unity Project/Assets/Plugins/RandomNumber 1.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>

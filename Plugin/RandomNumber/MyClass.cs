@@ -10,12 +10,17 @@
 using System;
 namespace RandomNumber
 {
-	public class MyClass
-	{
-		public int GetRandom() {
-            int num = _random.Next(0, 26);
-            public static char GetLetter()
-        }
-	}
+    public class MyClass
+    {
+        public int GetRandom()
+        {
+            Random rand = new Random();
+
+          return rand.Next();
+
+    }
 }
+	}
+
+
 

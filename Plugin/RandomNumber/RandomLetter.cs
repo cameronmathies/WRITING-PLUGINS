@@ -8,13 +8,15 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 using System;
-namespace AssemblyCSharp
-{
-	public class RandomLetter
+using System.IO
+
+	public class RN
 	{
-		public RandomLetter ()
-		{
-		}
+	public class GetL(){
+	StreamReader streamReader = new StreamReader(C:\Users\cmathies\Desktop\GitHub\WRITING-PLUGINS\Text); // in the text folder. Have to reasign.
+		string text = streamReader.ReadToEnd();
+		streamReader.Close();
+
 	}
 }
 
