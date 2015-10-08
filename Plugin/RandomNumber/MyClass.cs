@@ -16,7 +16,7 @@ namespace RandomNumber
         {
             Random rand = new Random();
 
-          return rand.Next();
+          return rand.Next(0,27);
 
     }
 }
